@@ -1,0 +1,14 @@
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.App.xaml
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.MainPage.xaml
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.CallHistoryPage.xaml
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.App.xaml.g.cs
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.MainPage.xaml.g.cs
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.CallHistoryPage.xaml.g.cs
+/Users/akiba/projects/Phoneword/Phoneword/bin/Debug/Phoneword.dll.mdb
+/Users/akiba/projects/Phoneword/Phoneword/bin/Debug/Phoneword.dll
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.dll
+/Users/akiba/projects/Phoneword/Phoneword/obj/Debug/Phoneword.dll.mdb
+/Users/akiba/projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Core.dll
+/Users/akiba/projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/akiba/projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Xaml.dll

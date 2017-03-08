@@ -18,7 +18,7 @@ namespace Phoneword.iOS
 		{
 			global::Xamarin.Forms.Forms.Init();
 
-			MobileCenter.Configure("bcf75080-ec4e-4fdf-96e8-f3c3e355be78");
+			MobileCenter.Configure("d99fb124-13ec-45fb-9a87-07cf808aa0c5");
 
 			LoadApplication(new App());
 

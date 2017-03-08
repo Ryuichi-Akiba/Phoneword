@@ -26,7 +26,7 @@ namespace Phoneword.Droid
 
 			global::Xamarin.Forms.Forms.Init(this, bundle);
 
-			MobileCenter.Configure("ad2d4ba4-a731-4d43-9576-0ab63b355bd4");
+			MobileCenter.Configure("39558203-5b88-47f0-8071-3cd182c569e5");
 
 			LoadApplication(new App());
 		}
